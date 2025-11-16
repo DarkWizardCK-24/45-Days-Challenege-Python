@@ -1,2 +1,2 @@
-# 120-Days-Challenege-of-Python
-A challenge to cover the python from basics to advance level in 120 days.
+# 45 Days Challenege Python
+A challenge to cover the DSA python from basics to advance level in 45 days.
